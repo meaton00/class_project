@@ -1,7 +1,7 @@
 import csv 
 import sys 
 
-data_file = open("ritis-eventsdec13.csv", "rU")
+data_file = open("IncidentData_24OCT14.csv", "rU")
 data = csv.DictReader(data_file)
 
 results = []
