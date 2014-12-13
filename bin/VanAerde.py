@@ -1,7 +1,21 @@
+# VanAerde
+# Program to solve for the Van Aerde model parameter vector
+#
+# Author: GU SCS Data Analytics Cohort 2, Team Godzilla
+# Created: November 30, 2014
+#
+
+################################################################
+#  CONSTANTS
+################################################################
+
+AVG_VEH_LEN = 16  # in feet
+
+################################################################
+#  IMPORTS
+################################################################
 import csv
 
-# constants
-AVG_VEH_LEN = 16  # in feet
 
 # Read in the range of parameter values for this run
 # substitute actuals read off a file, for what's below
