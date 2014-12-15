@@ -17,5 +17,8 @@ def main (*argv):
 		parser.add_argument('csv', nargs=1, help="Data to import")
 	print argv
 	
+	args = parser.parse_args()
+	print args
+	
 if __name__ == '__main__':
 	main(*sys.argv[1:])

@@ -1,0 +1,1 @@
+﻿CREATE INDEX timestamp_idx ON traffic(traffic_timestamp);

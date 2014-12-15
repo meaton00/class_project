@@ -1,0 +1,1 @@
+﻿ALTER TABLE time10 ADD PRIMARY KEY USING INDEX time10_timekey_idx;

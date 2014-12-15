@@ -1,0 +1,1 @@
+﻿CREATE UNIQUE INDEX datetime_idx ON time10(timestamp10);

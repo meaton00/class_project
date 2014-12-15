@@ -1,0 +1,16 @@
+bike share notes
+
+terminal codes beginning with 310xx are Virginia
+terminal codes with 311xx - 318xx are DC
+terminal codes with 32xxx are Maryland
+
+
+for 2014 Q2 data
+
+dc to va	13346	
+va to dc	15772	
+both	29118	
+total	903634	
+		
+	3.2%	river crossings
+	1.5%	dc to va river crossings
